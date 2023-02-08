@@ -1,0 +1,20 @@
+body{
+  background-color:black;
+  }
+.card{
+  display:grid;
+  justify-content: center;
+  align-content: center;
+  background-color:#FFF;
+  heighr:250px;
+  width:300px;
+  }
+#Question{
+  font-size:20px;
+  font-weight:900;
+  }
+#quiz_input{
+  border:none;
+  outline:none;
+  border-bottom:1px solid black;
+}
